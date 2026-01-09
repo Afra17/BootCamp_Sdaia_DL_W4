@@ -12,3 +12,5 @@ To make training faster and more resource-efficient, we implement LoRA (Low-Rank
 Freeze the original pre-trained weights.
 Add small, trainable Adapters (rank decomposition matrices).
 Significantly reduce memory usage and training time while maintaining high accuracy.
+
+
